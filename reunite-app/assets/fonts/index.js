@@ -1,0 +1,18 @@
+export const Font = {
+  POPPINS_BLACK: 'Poppins-Black',
+  POPPINS_BLACKITALIC: 'Poppins-BlackItalic',
+  POPPINS_BOLD: 'Poppins-Bold',
+  POPPINS_BOLDITALIC: 'Poppins-BoldItalic',
+  POPPINS_EXTRABOLD: 'Poppins-ExtraBold',
+  POPPINS_EXTRABOLDITALIC: 'Poppins-ExtraBoldItalic',
+  POPPINS_ITALIC: 'Poppins-Italic',
+  POPPINS_LIGHT: 'Poppins-Light',
+  POPPINS_LIGHTITALIC: 'Poppins-LightItalic',
+  POPPINS_MEDIUM: 'Poppins-Medium',
+  POPPINS_MEDEIUMITALIC: 'Poppins-MediumItalic',
+  POPPINS_REGULAR: 'Poppins-Regular',
+  POPPINS_SEMIBOLD: 'Poppins-SemiBold',
+  POPPINS_SEMIBOLDITALIC: 'Poppins-SemiBoldItalic',
+  POPPINS_THIN: 'Poppins-Thin',
+  POPPINS_THINITALIC: 'Poppins-ThinItalic',
+};

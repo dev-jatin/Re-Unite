@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "236162379039",
+    "project_id": "reunite-e4e4b",
+    "storage_bucket": "reunite-e4e4b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:236162379039:android:6c756df8ff0ba13994942a",
+        "android_client_info": {
+          "package_name": "com.reunite"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "236162379039-klofhjqi6i9uedlsr1af0vmt86i0f20d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDFM8ZGZZxidBx1_Z05165vZSZVf-coesM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "236162379039-klofhjqi6i9uedlsr1af0vmt86i0f20d.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
